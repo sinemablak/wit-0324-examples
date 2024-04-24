@@ -5,7 +5,12 @@ var sayi3 = 1; //güncel versiyonda artik kullanilmiyor
 console.log(sayi); //ekrana yazdirmak icin kullanilir.
 console.log(sayi2);
 
-//0-1 arasinda random sayi uretmek
-console.log(Math.random());
+// yas değişkenine 25 değerini ata ve bu değeri konsola yazdır.
+let yas = 25;
+console.log(yas);
 
-//kosullu ifadeler if-else if-else
+//fiyat değişkeninin değerini 2 katına çıkarın.
+let fiyat = 50;
+fiyat = fiyat * 2;
+
+//Deger vermeden tanimladigimiz bir degiskenin degerine erismeye calisirsak 'Deger unfedined olarak belirir'
